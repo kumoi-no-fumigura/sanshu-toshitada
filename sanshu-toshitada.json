@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/sanshu-toshitada",
  "yomi": "さこんのごんのちゅうじょうとしただあそんけうたあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "歌合",
+  "era": "長治元年（1104）5月",
+  "author": "主催 藤原俊忠／判者 源俊頼",
+  "desc": "左近権中将藤原俊忠の家の歌合。郭公・五月雨・盧橘・螢・照射・祝・恋などの題を、女房たちや基俊らが詠む。判者は源俊頼である。"
+ },
  "editions": [
   {
    "pid": "1128193",
